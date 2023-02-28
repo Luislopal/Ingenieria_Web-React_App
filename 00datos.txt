@@ -1,0 +1,6 @@
+
+Mejoras:
+
+-Mejora del boton de Reset, para que se pida un nuevo conjunto y reinicie el juego, en nuestro caso desde la pregunta por la que iba.
+
+-Mejora CSS.

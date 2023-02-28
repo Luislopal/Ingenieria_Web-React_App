@@ -1,0 +1,33 @@
+{
+    "titulo": "My Games", 
+    "h1":"Welcome to the main page of React mini-games.",
+    "p1":"In this page you will be able to play different games.",
+    "p2":"Click on the tab of the game that you want to play.",
+
+    "tictactoe":"TicTacToe",
+    "quiz":"Quiz",
+    "home":"Home",
+
+    "numberofmoves":"Number of moves: ",
+    "reset":"Reset",
+
+    "final":"Game Over",
+    "resultado":"Final Score:",
+
+    "turn":"Turn",
+    "text":"Turn of ",
+    "PLAYERX":"Player 1 -Xs",
+    "PLAYER0":"Player 2 -0s",
+    "anonymus":"anonymus",
+
+    "answer":"Answer:",
+    "previous":"Previous",
+    "next":"Next",
+    "submit":"Submit",
+    "finish":"Finish",
+    
+    "input":"Type your answer here",
+    "playagain":"Play Again",
+    "limpiar":"Clean Text"
+ }
+ 

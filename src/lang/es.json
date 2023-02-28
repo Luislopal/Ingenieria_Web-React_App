@@ -1,0 +1,34 @@
+{
+    "titulo": "Mis Juegos",
+    "h1":"Bienvenido a la página principal de mini-juegos de React.",
+    "p1":"En esta página podrás jugar a diferentes juegos.",
+    "p2":"Haz click en la pestaña del juego al que deseas jugar.",
+
+    "tictactoe":"TresEnRaya",
+    "home":"Inicio",
+    "quiz":"Cuestionario",
+
+
+    "numberofmoves":"Número de movimientos: ",
+    "reset":"Reiniciar",
+
+    "final":"Final de la partida",
+    "resultado":"Puntuación final:",
+
+    "turn":"Turno",
+    "text":"Turno de ",
+    "PLAYERX":"Jugador 1 -Xs",
+    "PLAYER0":"Jugador 2 -0s",
+    "anonymus":"anónimo",
+
+    "answer":"Respuesta:",
+    "previous":"Anterior",
+    "next":"Siguiente",
+    "submit":"Entregar",
+    "finish":"Finalizar",
+    "input":"Escribe tu respuesta aquí",
+    
+    "playagain":"Jugar de nuevo",
+    "limpiar":"Limpiar texto"
+
+}
